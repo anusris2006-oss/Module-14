@@ -1,4 +1,4 @@
-# Exp.No:37  
+# Exp.No: 14E
 ## PRIORITY QUEUE
 
 ---
@@ -30,8 +30,8 @@ To write a Python program for simple implementation of Priority Queue using Queu
 ### PROGRAM
 
 ```
-#NAME:  ANUSRI SRIDHAR
 #REG NO: 212223020002
+#NAME:  ANUSRI SRIDHAR
 
 # A simple implementation of Priority Queue
 # using Queue.
