@@ -1,4 +1,4 @@
-# Exp.No:4A  
+# Exp.No:14A  
 ## APPLICATIONS OF QUEUE
 
 ---
