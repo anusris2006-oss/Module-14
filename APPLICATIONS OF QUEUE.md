@@ -1,4 +1,4 @@
-# Exp.No:40  
+# Exp.No:4A  
 ## APPLICATIONS OF QUEUE
 
 ---
@@ -32,8 +32,8 @@ To write a Python program to implement CPU Process Scheduling using a queue.
 ### PROGRAM  
 
 ```
-#NAME:  ANUSRI SRIDHAR
 #REG NO: 212223020002
+#NAME:  ANUSRI SRIDHAR
 
 # Python3 program for implementation
 # of FCFS scheduling
